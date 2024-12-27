@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus_Lesson_19", "Otus_Lesson_19\Otus_Lesson_19.csproj", "{30C21F83-FBEB-42FE-95D0-2AB3BD5EA2E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C21F83-FBEB-42FE-95D0-2AB3BD5EA2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C21F83-FBEB-42FE-95D0-2AB3BD5EA2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C21F83-FBEB-42FE-95D0-2AB3BD5EA2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C21F83-FBEB-42FE-95D0-2AB3BD5EA2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
